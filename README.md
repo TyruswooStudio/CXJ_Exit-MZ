@@ -1,5 +1,5 @@
 # CXJ Exit v1.0.1 for RPG Maker MZ
-By G.A.M. Kertopermono, a.k.a. GaryCXJk
+**By G.A.M. Kertopermono, a.k.a. GaryCXJk**
 
 The original MV edition of this plugin can be found on its creator's website, 
 [GeryCXJk.com](https://area91.garycxjk.com/rmmv/plugins/misc/exit).
@@ -56,19 +56,19 @@ advised to place this script below other scripts that use these functions.
 
 ## Version History
 
-**1.0.0** (2015-10-26)
+**Version 1.0.0** - October 26, 2015
 * Initial release for RPG Maker MV
 
-**1.0.1** (2015-10-27)
+**Version 1.0.1** - October 27, 2015
 * Added script rename fallback
 
-**1.0.1, MZ edition** (2022-11-01)
+**Version 1.0.1, MZ edition** - November 1, 2022
 * Ported to RPG Maker MZ by McKathlin
 
 ## License
 
-CC0 1.0 Universal (CC0 1.0)
-Public Domain Dedication
+**CC0 1.0 Universal (CC0 1.0)**
+**Public Domain Dedication**
 
 The person who associated a work with this deed has dedicated the work to
 the public domain by waiving all of his or her rights to the work worldwide
