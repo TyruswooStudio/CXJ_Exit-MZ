@@ -11,7 +11,7 @@ Imported.CXJ_Exit = "1.0.1";
 
 /*:
  * @target MZ
- * @plugindesc Adds an exit option to desktop versions of the game
+ * @plugindesc MZ v1.0.1 Adds an exit option to desktop versions of the game
  * @author G.A.M. Kertopermono
  *
  * @help
