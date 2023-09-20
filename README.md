@@ -48,11 +48,11 @@ This plugin overwrites the functions listed below, but still uses the old
 version, either as the basis for the function or as a fallback. It is
 advised to place this script below other scripts that use these functions.
 
-- Scene_Title.prototype.createCommandWindow
-- Window_TitleCommand.prototype.makeCommandList
-- Scene_GameEnd.prototype.createCommandWindow
-- Window_GameEnd.prototype.makeCommandList
-- Game_Interpreter.prototype.pluginCommand
+- `Scene_Title.prototype.createCommandWindow`
+- `Window_TitleCommand.prototype.makeCommandList`
+- `Scene_GameEnd.prototype.createCommandWindow`
+- `Window_GameEnd.prototype.makeCommandList`
+- `Game_Interpreter.prototype.pluginCommand`
 
 ## Version History
 
